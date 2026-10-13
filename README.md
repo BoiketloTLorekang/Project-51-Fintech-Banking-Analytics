@@ -66,5 +66,6 @@ DIVIDE(
     COUNT(Fact_Transactions[transaction_id]),
     0
 )
+```
 💡 Conclusion & Business Impact
 Project 51 demonstrates advanced competency in financial data modeling, risk scoring metrics, and unit economics tracking. By combining clean Python data generation with rigorous Power BI semantic modeling, this solution provides complete transparency over user acquisition ROI, credit risk mitigation, and fraud detection.
